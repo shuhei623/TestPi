@@ -1,5 +1,6 @@
 # TestPi
 RaspberryPi test code
-Hello
+* Hello
+* Goodby
 
 Update 2020/11/02
